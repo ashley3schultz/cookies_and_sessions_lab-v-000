@@ -6,4 +6,8 @@ class ApplicationController < ActionController::Base
   def cart
 
   end
+
+  def index 
+
+  end 
 end

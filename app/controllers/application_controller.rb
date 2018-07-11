@@ -7,7 +7,7 @@ class ApplicationController < ActionController::Base
 
   end
 
-  def index 
+  def index
 
-  end 
+  end
 end
